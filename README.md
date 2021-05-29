@@ -11,7 +11,7 @@ The main purpose of this projet is to test if bike sharing investment is proffit
  - Bike trips by gender and duration
 This is bike sharing by gender and duration of time bikeing.  As we can see on the image **male** users are by far larger than **female** users.However, both **male** and **female** uses bike for on average 20 minutes.
       
-       ![Bikesharing by gender and duration](https://user-images.githubusercontent.com/78656720/120075147-208d5180-c06e-11eb-806a-ae7b313af26a.png)
+   ![Bikesharing by gender and duration](https://user-images.githubusercontent.com/78656720/120075147-208d5180-c06e-11eb-806a-ae7b313af26a.png)
 
 - Bike trips for all riders and genders for each hour of each day of the week.
 As we can see in the image below the peak hours for bike ridings are from  7am-9am  and from 5pm-7pm. Among the weekdays Thursday is the busy day for bike riding in Newyork. Regarding **Gender** Male customers are by large greater than the others. 
@@ -20,7 +20,7 @@ As we can see in the image below the peak hours for bike ridings are from  7am-9
 
 - The number of bike trips for each type of user and gender for each day of the week.
     
-      ![Bikesharing by user and byweek day and gender](https://user-images.githubusercontent.com/78656720/120075589-e91fa480-c06f-11eb-9fa9-6aadd1b38b07.png)
+     ![Bikesharing by user and byweek day and gender](https://user-images.githubusercontent.com/78656720/120075589-e91fa480-c06f-11eb-9fa9-6aadd1b38b07.png)
 Looking the above chart 
 
 
