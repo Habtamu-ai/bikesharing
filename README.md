@@ -1,7 +1,7 @@
 # Bikesharing
 
 # Overview
-The purpose of this project is to test if a bike-sharing investment is profitable in the city of Des Monies. For that, we take the Newyork city bike-sharing as a sample and analyze it if the business is promising to invest in for our stakeholder. For this analysis, we have used python and Tableau to analyze and visualize our project. The main question this project tries to answer is how the bike-sharing in Newyork city behaves for the following combinations:  
+The purpose of this project is to test if a bike-sharing investment is profitable in the city of Des Monies. For that, we checked the [citibie](https://www.citibikenyc.com/system-data) data base to take a look at the Newyork citybike-sharing as a sample and analyze it if the business is promising to invest in for our stakeholder. For this analysis, we have used python and Tableau to analyze and visualize our project. The main question this project tries to answer is how the bike-sharing in Newyork city behaves for the following combinations:  
  
 - The length of time that bikes are checked out for all riders and genders
 - The number of bike trips for all riders and genders for each hour of each day of the week
