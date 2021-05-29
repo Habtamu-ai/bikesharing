@@ -10,10 +10,12 @@ The main purpose of this projet is to test if bike sharing investment is proffit
 # Results
  - Bike trips by gender and duration
 This is bike sharing by gender and duration of time bikeing.  As we can see on the image **male** users are by far larger than **female** users.However, both **male** and **female** uses bike for on average 20 minutes.
-![Bikesharing by gender and duration](https://user-images.githubusercontent.com/78656720/120073034-9d1b3280-c064-11eb-964b-9728c373a666.png)
+![Bikesharing by gender and duration](https://user-images.githubusercontent.com/78656720/120075147-208d5180-c06e-11eb-806a-ae7b313af26a.png)
+
 - Bike trips for all riders and genders for each hour of each day of the week.
 
--![NYC Bikesharing Story](https://user-images.githubusercontent.com/78656720/120073928-76f79180-c068-11eb-8cfb-1d5d59055f17.png)
+![NYC Bikesharing Story](https://user-images.githubusercontent.com/78656720/120075171-31d65e00-c06e-11eb-8d3f-80e8b809cfd4.png)
+
 
 
 
